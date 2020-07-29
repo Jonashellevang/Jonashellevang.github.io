@@ -1,0 +1,10 @@
+title: Masters in Business Analytics & Big Data at IE School of Human Sciences and Technology
+author: Jonas Hellevang
+email: jonashellevang@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  This site contains work done in my Masters, as well as projects done on the side. It will be updated whenever there are new projects worked on or finished.
+# social links
+github_username:  Jonashellevang
+
+show_excerpts: true # set to false to remove excerpts on the homepage
+theme: jekyll-theme-cayman
